@@ -18,4 +18,5 @@ SHELL: FISH
 BAR: WAYBAR
 
 
-![Image Alt text](/images/img.jpg "Preview"))
+Preview:
+![Image Alt text](gscreenshot_2024-01-05-121116.png "Preview"))
