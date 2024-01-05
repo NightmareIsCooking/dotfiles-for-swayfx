@@ -1,0 +1,12 @@
+
+
+[window]
+startup_mode = "Windowed"
+dynamic_padding = true
+opacity = 0.5
+
+[colors.primary]
+background = "#006273"
+foreground = "#00d9ff"
+
+
