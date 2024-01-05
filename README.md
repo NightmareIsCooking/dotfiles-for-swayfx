@@ -16,3 +16,6 @@ DISTRO: ARCH
 SHELL: FISH
 
 BAR: WAYBAR
+
+
+![Image Alt text](/images/img.jpg "Preview"))
