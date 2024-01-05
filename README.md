@@ -19,4 +19,4 @@ BAR: WAYBAR
 
 
 Preview:
-![Image Alt text](gscreenshot_2024-01-05-121116.png "Preview"))
+![Image Alt text](gscreenshot_2024-01-05-121116.png "Preview")
